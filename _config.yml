@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+title: Rizlan Nawfal Tamima
+email: rtamima@gmail.com
+description: Blog aja inimah.
+baseurl: ''
+url: ''
+twitter_username: rizlantamima
+github_username: rizlantamima
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
